@@ -1,14 +1,14 @@
 html {
     font-family: "Roboto", sans-serif;
     font-size: 10px;
-    color: #4e4d4d;
+    color: #383030;
   }
   
   main {
     max-width: 50rem;
     margin: 2rem auto;
     padding: 3rem 1.6rem 6rem 1.6rem;
-    background: linear-gradient(30deg, #3dc0c0, #5bceae);
+    background: linear-gradient(40deg, gold, goldenrod);
     border-radius: 4rem;
     box-shadow: 0 2px 2px lightgray;
   }
@@ -71,7 +71,7 @@ html {
     margin-top: 1.2rem;
     background: #eee;
     border-radius: 0.3rem;
-    outline-color: #5bceae;
+    outline-color:goldenrod;
   }
   
   .range::-webkit-slider-thumb {
@@ -79,7 +79,7 @@ html {
     width: 2.2rem;
     height: 2.2rem;
     border-radius: 50%;
-    background: #3dc0c0;
+    background: goldenrod;
     cursor: pointer;
   }
   
@@ -87,7 +87,7 @@ html {
     width: 2.2rem;
     height: 2.2rem;
     border-radius: 50%;
-    background: #3dc0c0;
+    background: goldenrod;
     cursor: pointer;
     border: 0;
   }
